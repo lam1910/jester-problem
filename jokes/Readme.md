@@ -17,10 +17,8 @@
 		- The titles correspond to the ID's of the jokes in the Excel files above
 	
 	- .dat file: Maps item ID's to jokes. Following the format: 
-
-```
-a:
-
-A piece of raw html code
-```
+	```
+	a:
+	A piece of raw html code
+	```
 
